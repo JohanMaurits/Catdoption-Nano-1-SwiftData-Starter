@@ -33,7 +33,7 @@ struct AddNewPetView: View{
                     Text("Male")
                     Text("Female")
                 } label: {
-                    Text("Pet Gender")
+                    Text("Pet Genders")
                 }
                 .pickerStyle(.navigationLink)
             }
